@@ -48,4 +48,11 @@
 + Aprofundando nos conceitos de referências a um espaço de memória
 + Get e Set
 + Melhor encapsulamento da classe
-+ Protegendo atributos sensíveis 
++ Protegendo atributos sensíveis
+
+### Aula 5
+ 
++ Construtores
++ encapsulamento
++ atributos "readonly"
++ Atributos estáticos
