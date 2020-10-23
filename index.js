@@ -20,9 +20,10 @@ const conta2 = new ContaCorrente();
 conta2.cliente = cliente2;
 conta2.agencia = 102;
 
-console.log(conta2);
+let valor = 200;
+contaCorrenteRicardo.tranferir(valor, conta2);
 
-contaCorrenteRicardo.transferir(200, conta2);
-console.log(conta2);
+conta2.saldo = 30000;
+console.log(conta2.saldo);
 
-console.log(contaCorrenteRicardo);
+
