@@ -1,3 +1,5 @@
+## Javascript - Orientação à objetos
+
 ### Aula 1
 
 + Instalação do Node.js na versão mais recente (v15)
@@ -56,3 +58,25 @@
 + encapsulamento
 + atributos "readonly"
 + Atributos estáticos
+
+## Curso Interfaces e Heranca
+
+# Aula 2 - Herança
++ Especializando código
++ Herdando propriedades e atributos
++ Sobrecarga de métodos
++ Compartilhando código de forma segura
++ Mantendo nosso código na linguagem do cliente
++ Evitando código muito complicado através da herança
++ Palavra-chave Super
++ Método e propriedades privadas e protegidas
+
+# Aula 3 - Classes abstratas 
++ Como o JS sabe quem está sendo instanciado.
++ Pesando na proteção do nosso sistema
++ Lançando erros para o sistema
++ Classes abstratas
++ Métodos abstratos
++ Erros em tempo de execução
+
+ 
