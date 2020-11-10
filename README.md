@@ -61,7 +61,7 @@
 
 ## Curso Interfaces e Heranca
 
-# Aula 2 - Herança
+### Aula 2 - Herança
 + Especializando código
 + Herdando propriedades e atributos
 + Sobrecarga de métodos
@@ -71,7 +71,7 @@
 + Palavra-chave Super
 + Método e propriedades privadas e protegidas
 
-# Aula 3 - Classes abstratas 
+### Aula 3 - Classes abstratas 
 + Como o JS sabe quem está sendo instanciado.
 + Pesando na proteção do nosso sistema
 + Lançando erros para o sistema
@@ -79,4 +79,9 @@
 + Métodos abstratos
 + Erros em tempo de execução
 
- 
+### Aula 4 - Sistema interno
+
++ Revisão de herança,boas práticas de código e encapsulamento
++ Polimorfismo: utilizado para chamar um comportamento comum a varios tipos de objetos 
++ Métodos estáticos, utilizado para chamar diretamente a funcao sem precisar instanciar
++ Maneiras de tratar objetos de diferentes tipos de maneira parecida
