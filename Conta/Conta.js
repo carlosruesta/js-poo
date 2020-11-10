@@ -1,4 +1,4 @@
-import { Cliente } from "./Cliente.js";
+import { Cliente } from "../Cliente.js";
 
 // classe abstrata poir não pode ser instanciada
 export class Conta {
