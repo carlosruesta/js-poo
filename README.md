@@ -85,3 +85,22 @@
 + Polimorfismo: utilizado para chamar um comportamento comum a varios tipos de objetos 
 + Métodos estáticos, utilizado para chamar diretamente a funcao sem precisar instanciar
 + Maneiras de tratar objetos de diferentes tipos de maneira parecida
+
+### Aula 5 - 
+
++ Polimorfismo 
+    + É possível porque o JS não é uma linguagem fortemente tipada e por isso não depende apenas dos tipos pré-definidos mas sim 
+      se eles possuem ou não as propriedades que queremos utilizar.
+    + Através do polimorfismo o JS consegue tratar diferentes objetos de maneiras semelhantes e por isso conseguimos autenticar 
+      diferentes tipos de objetos em nosso sistema
+    + O Polimorfismo é uma ferramenta muito importante dentro das linguagens de programação, por isso é importante que você 
+      saiba como utilizá-lo.
++ operador in -> serve para validar se uma propriedade/metodo faz parte de um objeto 
++ operador instanceOf -> serve para validar o tipo do objeto/elemento/variavel/etc. (parecido com typeof) 
++ Como proteger nossos sistemas
++ interfaces padronizadas -> trabalhar com interfaces permite o polimorfismo e essa é a base da orientação à objetos
++ Ducky Type -> 
+    + "If it walks like a duck and it quacks like a duck, then it must be a duck"
+    + É a base das linguagens fracamente tipadas como PHP e JS;
+    
+    
